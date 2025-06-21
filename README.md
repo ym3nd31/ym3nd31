@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi! My name is Menachem Yarmak, and I am a Computer Science major at UNLV
 
+## 🚀 Projects
+
+- **Project Name** (link)
+
+## 📫 Contact
+
+- Email: menachemyarmak@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/menachem-yarmak-094859360/](link)
 <!--
 **ym3nd31/ym3nd31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
