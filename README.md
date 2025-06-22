@@ -6,7 +6,7 @@
 
 ## 📫 Contact
 
-- Email: menachemyarmak@gmail.com
+- Email: mendelyarmak@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/menachem-yarmak-094859360/](link)
 <!--
 **ym3nd31/ym3nd31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
